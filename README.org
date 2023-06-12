@@ -1,0 +1,10 @@
+* commonqt
+
+Official commonqt repository
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/commonqt/commonqt.git   |
+| commit  | dffff3e  |
+| systems | commonqt |
+|---------+-------------------------------------------|
+
