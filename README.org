@@ -5,5 +5,5 @@ Official commonqt repository
 |---------+----------------------------------------------|
 | source  | git:https://github.com/commonqt/commonqt.git |
 | commit  | dffff3e                                      |
-| systems | (qt qt-tutorial qt-repl qt+libs)             |
+| systems | qt qt-tutorial qt-repl qt+libs               |
 |---------+----------------------------------------------|
