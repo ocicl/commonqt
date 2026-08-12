@@ -7,4 +7,4 @@ Official commonqt repository
 | commit  | dffff3e                                      |
 | systems | qt qt-tutorial qt-repl qt+libs               |
 |---------+----------------------------------------------|
- 
+  
